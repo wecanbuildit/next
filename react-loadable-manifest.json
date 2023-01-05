@@ -1,0 +1,30 @@
+{
+  "index-glitch.js -> ../src/components/Portfolio": {
+    "id": 9424,
+    "files": [
+      "static/chunks/391.6f5198c99b761316.js",
+      "static/chunks/424.ef29d033948601c0.js"
+    ]
+  },
+  "index-particles.js -> ../src/components/Portfolio": {
+    "id": 9424,
+    "files": [
+      "static/chunks/391.6f5198c99b761316.js",
+      "static/chunks/424.ef29d033948601c0.js"
+    ]
+  },
+  "index-video.js -> ../src/components/Portfolio": {
+    "id": 9424,
+    "files": [
+      "static/chunks/391.6f5198c99b761316.js",
+      "static/chunks/424.ef29d033948601c0.js"
+    ]
+  },
+  "index.js -> ../src/components/Portfolio": {
+    "id": 9424,
+    "files": [
+      "static/chunks/391.6f5198c99b761316.js",
+      "static/chunks/424.ef29d033948601c0.js"
+    ]
+  }
+}
